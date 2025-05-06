@@ -16,7 +16,7 @@
 ### 🧠 Tech Stack
 - `Swift`, `SwiftUI`, `UIKit`, `Combine`
 - `Xcode`, `Fastlane`, `GitHub Actions`
-- System Design
+- `System Design`
 
 ---
 
