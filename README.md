@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I’m Amir — aka ByteHasher</h1>
+<h1 align="center">👋 Hey, I’m Amir </h1>
 
 <p align="center">
   iOS Developer • Fintech Enthusiast
