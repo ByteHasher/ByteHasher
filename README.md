@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I’m Amir </h1>
 
 <p align="center">
-  iOS Developer • Fintech Enthusiast
+  iOS Developer
 </p>
 
 ---
